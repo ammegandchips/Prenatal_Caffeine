@@ -106,7 +106,7 @@ Please also exclude multiple pregnancies (e.g. twins) and siblings (i.e. each mo
 Please supply the following files in the specified formats:
 
 * **EWAS results:** one Rdata file labelled as YOURSTUDY.matcaff.ewasresults.timepoint.Rdata.
-* **Extra cohort information:** one Excel file labelled as YOURSTUDY.matcaff.cohortinfo.xlsx. This will contain information for each cohort relating to things like normalisation method. Please download and use the template available at: https://github.com/ammegandchips/Prenatal_Caffeine/blob/master/YOURSTUDY.caffeine.cohortinfo.xlsx  
+* **Extra cohort information:** one Excel file labelled as YOURSTUDY.matcaff.cohortinfo.xlsx. This will contain information for each cohort relating to things like normalisation method. Please download and use the template available at: https://github.com/ammegandchips/Prenatal_Caffeine/blob/master/YOURSTUDY.matcaff.cohortinfo.xlsx  
 * **EWAS variables summary:** a csv file labelled as YOURSTUDY.matcaff.modelname.summary.timepoint.csv. This will contain summary statistics summarising predictor variables. The code will generate these files for you. 
 
 ### Upload of results
